@@ -1,0 +1,99 @@
+START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+02-26-19,2:05 PM,3:05 PM,Padres at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: WTMJ 620,2-26-19,2-26-19,5:05 PM,6:05 PM,FALSE,TRUE,2-26-19,1:05 PM,2:05 PM,FREE,BUSY
+02-27-19,2:05 PM,3:05 PM,Indians at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: 94.5 ESPN Milwaukee,2-27-19,2-27-19,5:05 PM,6:05 PM,FALSE,TRUE,2-27-19,1:05 PM,2:05 PM,FREE,BUSY
+02-28-19,2:05 PM,3:05 PM,Giants at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI,2-28-19,2-28-19,5:05 PM,6:05 PM,FALSE,TRUE,2-28-19,1:05 PM,2:05 PM,FREE,BUSY
+03-03-19,2:05 PM,3:05 PM,Reds at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: WTMJ 620,3-3-19,3-3-19,5:05 PM,6:05 PM,FALSE,TRUE,3-3-19,1:05 PM,2:05 PM,FREE,BUSY
+03-06-19,2:05 PM,3:05 PM,D-backs at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: WTMJ 620,3-6-19,3-6-19,5:05 PM,6:05 PM,FALSE,TRUE,3-6-19,1:05 PM,2:05 PM,FREE,BUSY
+03-08-19,1:05 PM,2:05 PM,D-backs at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: WTMJ 620,3-8-19,3-8-19,4:05 PM,5:05 PM,FALSE,TRUE,3-8-19,12:05 PM,1:05 PM,FREE,BUSY
+03-10-19,3:05 PM,4:05 PM,Cubs at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: 94.5 ESPN Milwaukee,3-10-19,3-10-19,6:05 PM,7:05 PM,FALSE,TRUE,3-10-19,2:05 PM,3:05 PM,FREE,BUSY
+03-11-19,3:05 PM,4:05 PM,White Sox at Brewers,American Family Fields of Phoenix - Phoenix,Local Radio: 94.5 ESPN Milwaukee,3-11-19,3-11-19,6:05 PM,7:05 PM,FALSE,TRUE,3-11-19,2:05 PM,3:05 PM,FREE,BUSY
+03-14-19,3:05 PM,4:05 PM,Angels at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: WTMJ 620,3-14-19,3-14-19,6:05 PM,7:05 PM,FALSE,TRUE,3-14-19,2:05 PM,3:05 PM,FREE,BUSY
+03-15-19,3:05 PM,4:05 PM,Padres at Brewers,American Family Fields of Phoenix - Phoenix,Local Radio: MLB.com,3-15-19,3-15-19,6:05 PM,7:05 PM,FALSE,TRUE,3-15-19,2:05 PM,3:05 PM,FREE,BUSY
+03-16-19,3:05 PM,4:05 PM,Rockies at Brewers,American Family Fields of Phoenix - Phoenix,Local Radio: WTMJ 620,3-16-19,3-16-19,6:05 PM,7:05 PM,FALSE,TRUE,3-16-19,2:05 PM,3:05 PM,FREE,BUSY
+03-19-19,3:05 PM,4:05 PM,Rangers at Brewers,American Family Fields of Phoenix - Phoenix,Local Radio: WTMJ 620,3-19-19,3-19-19,6:05 PM,7:05 PM,FALSE,TRUE,3-19-19,2:05 PM,3:05 PM,FREE,BUSY
+03-21-19,3:05 PM,4:05 PM,Dodgers at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: WTMJ 620,3-21-19,3-21-19,6:05 PM,7:05 PM,FALSE,TRUE,3-21-19,2:05 PM,3:05 PM,FREE,BUSY
+03-22-19,3:05 PM,4:05 PM,Reds at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI,3-22-19,3-22-19,6:05 PM,7:05 PM,FALSE,TRUE,3-22-19,2:05 PM,3:05 PM,FREE,BUSY
+03-23-19,3:05 PM,4:05 PM,Royals at Brewers,American Family Fields of Phoenix - Phoenix,Local TV: FSWI ----- Local Radio: WTMJ 620,3-23-19,3-23-19,6:05 PM,7:05 PM,FALSE,TRUE,3-23-19,2:05 PM,3:05 PM,FREE,BUSY
+03-28-19,1:10 PM,2:10 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,3-28-19,3-28-19,4:10 PM,5:10 PM,FALSE,TRUE,3-28-19,12:10 PM,1:10 PM,FREE,BUSY
+03-29-19,7:10 PM,8:10 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI- MLBN (out-of-market only) ----- Local Radio: WTMJ 620,3-29-19,3-29-19,10:10 PM,11:10 PM,FALSE,TRUE,3-29-19,6:10 PM,7:10 PM,FREE,BUSY
+03-30-19,6:10 PM,7:10 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,3-30-19,3-30-19,9:10 PM,10:10 PM,FALSE,TRUE,3-30-19,5:10 PM,6:10 PM,FREE,BUSY
+03-31-19,1:10 PM,2:10 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,3-31-19,3-31-19,4:10 PM,5:10 PM,FALSE,TRUE,3-31-19,12:10 PM,1:10 PM,FREE,BUSY
+04-03-19,7:10 PM,8:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI+ ----- Local Radio: WTMJ 620,4-5-19,4-5-19,10:10 PM,11:10 PM,FALSE,TRUE,4-5-19,6:10 PM,7:10 PM,FREE,BUSY
+04-05-19,7:10 PM,8:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI+ ----- Local Radio: WTMJ 620,4-5-19,4-5-19,10:10 PM,11:10 PM,FALSE,TRUE,4-5-19,6:10 PM,7:10 PM,FREE,BUSY
+04-06-19,6:10 PM,7:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI+- FS1 ----- Local Radio: WTMJ 620,4-6-19,4-6-19,9:10 PM,10:10 PM,FALSE,TRUE,4-6-19,5:10 PM,6:10 PM,FREE,BUSY
+04-07-19,1:10 PM,2:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI- MLBN (out-of-market only)- WYTU ----- Local Radio: WTMJ 620,4-7-19,4-7-19,4:10 PM,5:10 PM,FALSE,TRUE,4-7-19,12:10 PM,1:10 PM,FREE,BUSY
+04-15-19,6:40 PM,7:40 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,4-15-19,4-15-19,9:40 PM,10:40 PM,FALSE,TRUE,4-15-19,5:40 PM,6:40 PM,FREE,BUSY
+04-16-19,6:40 PM,7:40 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,4-16-19,4-16-19,9:40 PM,10:40 PM,FALSE,TRUE,4-16-19,5:40 PM,6:40 PM,FREE,BUSY
+04-17-19,12:40 PM,1:40 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,4-17-19,4-17-19,3:40 PM,4:40 PM,FALSE,TRUE,4-17-19,11:40 AM,12:40 PM,FREE,BUSY
+04-18-19,7:10 PM,8:10 PM,Dodgers at Brewers,Miller Park - Milwaukee,Local TV: FSWI- MLBN (out-of-market only) ----- Local Radio: WTMJ 620,4-18-19,4-18-19,10:10 PM,11:10 PM,FALSE,TRUE,4-18-19,6:10 PM,7:10 PM,FREE,BUSY
+04-19-19,7:10 PM,8:10 PM,Dodgers at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,4-19-19,4-19-19,10:10 PM,11:10 PM,FALSE,TRUE,4-19-19,6:10 PM,7:10 PM,FREE,BUSY
+04-20-19,6:10 PM,7:10 PM,Dodgers at Brewers,Miller Park - Milwaukee,Local TV: FSWI- FS1 ----- Local Radio: WTMJ 620,4-20-19,4-20-19,9:10 PM,10:10 PM,FALSE,TRUE,4-20-19,5:10 PM,6:10 PM,FREE,BUSY
+04-21-19,1:10 PM,2:10 PM,Dodgers at Brewers,Miller Park - Milwaukee,Local TV: FSWI- MLBN (out-of-market only)- WYTU ----- Local Radio: WTMJ 620,4-21-19,4-21-19,4:10 PM,5:10 PM,FALSE,TRUE,4-21-19,12:10 PM,1:10 PM,FREE,BUSY
+04-29-19,6:40 PM,7:40 PM,Rockies at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,4-29-19,4-29-19,9:40 PM,10:40 PM,FALSE,TRUE,4-29-19,5:40 PM,6:40 PM,FREE,BUSY
+04-30-19,6:40 PM,7:40 PM,Rockies at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,4-30-19,4-30-19,9:40 PM,10:40 PM,FALSE,TRUE,4-30-19,5:40 PM,6:40 PM,FREE,BUSY
+05-01-19,6:40 PM,7:40 PM,Rockies at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-1-19,5-1-19,9:40 PM,10:40 PM,FALSE,TRUE,5-1-19,5:40 PM,6:40 PM,FREE,BUSY
+05-02-19,12:10 PM,1:10 PM,Rockies at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-2-19,5-2-19,3:10 PM,4:10 PM,FALSE,TRUE,5-2-19,11:10 AM,12:10 PM,FREE,BUSY
+05-03-19,7:10 PM,8:10 PM,Mets at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-3-19,5-3-19,10:10 PM,11:10 PM,FALSE,TRUE,5-3-19,6:10 PM,7:10 PM,FREE,BUSY
+05-04-19,6:10 PM,7:10 PM,Mets at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-4-19,5-4-19,9:10 PM,10:10 PM,FALSE,TRUE,5-4-19,5:10 PM,6:10 PM,FREE,BUSY
+05-05-19,1:10 PM,2:10 PM,Mets at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,5-5-19,5-5-19,4:10 PM,5:10 PM,FALSE,TRUE,5-5-19,12:10 PM,1:10 PM,FREE,BUSY
+05-06-19,6:40 PM,7:40 PM,Nationals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-6-19,5-6-19,9:40 PM,10:40 PM,FALSE,TRUE,5-6-19,5:40 PM,6:40 PM,FREE,BUSY
+05-07-19,6:40 PM,7:40 PM,Nationals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-7-19,5-7-19,9:40 PM,10:40 PM,FALSE,TRUE,5-7-19,5:40 PM,6:40 PM,FREE,BUSY
+05-08-19,12:10 PM,1:10 PM,Nationals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-8-19,5-8-19,3:10 PM,4:10 PM,FALSE,TRUE,5-8-19,11:10 AM,12:10 PM,FREE,BUSY
+05-21-19,6:40 PM,7:40 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-21-19,5-21-19,9:40 PM,10:40 PM,FALSE,TRUE,5-21-19,5:40 PM,6:40 PM,FREE,BUSY
+05-22-19,12:10 PM,1:10 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-22-19,5-22-19,3:10 PM,4:10 PM,FALSE,TRUE,5-22-19,11:10 AM,12:10 PM,FREE,BUSY
+05-24-19,7:10 PM,8:10 PM,Phillies at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-24-19,5-24-19,10:10 PM,11:10 PM,FALSE,TRUE,5-24-19,6:10 PM,7:10 PM,FREE,BUSY
+05-25-19,3:10 PM,4:10 PM,Phillies at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,5-25-19,5-25-19,6:10 PM,7:10 PM,FALSE,TRUE,5-25-19,2:10 PM,3:10 PM,FREE,BUSY
+05-26-19,1:10 PM,2:10 PM,Phillies at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,5-26-19,5-26-19,4:10 PM,5:10 PM,FALSE,TRUE,5-26-19,12:10 PM,1:10 PM,FREE,BUSY
+06-04-19,6:40 PM,7:40 PM,Marlins at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-4-19,6-4-19,9:40 PM,10:40 PM,FALSE,TRUE,6-4-19,5:40 PM,6:40 PM,FREE,BUSY
+06-05-19,6:40 PM,7:40 PM,Marlins at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-5-19,6-5-19,9:40 PM,10:40 PM,FALSE,TRUE,6-5-19,5:40 PM,6:40 PM,FREE,BUSY
+06-06-19,1:10 PM,2:10 PM,Marlins at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-6-19,6-6-19,4:10 PM,5:10 PM,FALSE,TRUE,6-6-19,12:10 PM,1:10 PM,FREE,BUSY
+06-07-19,7:10 PM,8:10 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-7-19,6-7-19,10:10 PM,11:10 PM,FALSE,TRUE,6-7-19,6:10 PM,7:10 PM,FREE,BUSY
+06-08-19,3:10 PM,4:10 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-8-19,6-8-19,6:10 PM,7:10 PM,FALSE,TRUE,6-8-19,2:10 PM,3:10 PM,FREE,BUSY
+06-09-19,1:10 PM,2:10 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-9-19,6-9-19,4:10 PM,5:10 PM,FALSE,TRUE,6-9-19,12:10 PM,1:10 PM,FREE,BUSY
+06-20-19,7:10 PM,8:10 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-20-19,6-20-19,10:10 PM,11:10 PM,FALSE,TRUE,6-20-19,6:10 PM,7:10 PM,FREE,BUSY
+06-21-19,7:10 PM,8:10 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-21-19,6-21-19,10:10 PM,11:10 PM,FALSE,TRUE,6-21-19,6:10 PM,7:10 PM,FREE,BUSY
+06-22-19,3:10 PM,4:10 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-22-19,6-22-19,6:10 PM,7:10 PM,FALSE,TRUE,6-22-19,2:10 PM,3:10 PM,FREE,BUSY
+06-23-19,1:10 PM,2:10 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-23-19,6-23-19,4:10 PM,5:10 PM,FALSE,TRUE,6-23-19,12:10 PM,1:10 PM,FREE,BUSY
+06-25-19,7:10 PM,8:10 PM,Mariners at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-25-19,6-25-19,10:10 PM,11:10 PM,FALSE,TRUE,6-25-19,6:10 PM,7:10 PM,FREE,BUSY
+06-26-19,7:10 PM,8:10 PM,Mariners at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-26-19,6-26-19,10:10 PM,11:10 PM,FALSE,TRUE,6-26-19,6:10 PM,7:10 PM,FREE,BUSY
+06-27-19,1:10 PM,2:10 PM,Mariners at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-27-19,6-27-19,4:10 PM,5:10 PM,FALSE,TRUE,6-27-19,12:10 PM,1:10 PM,FREE,BUSY
+06-28-19,7:10 PM,8:10 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,6-28-19,6-28-19,10:10 PM,11:10 PM,FALSE,TRUE,6-28-19,6:10 PM,7:10 PM,FREE,BUSY
+06-29-19,7:15 PM,8:15 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FOX ----- Local Radio: WTMJ 620,6-29-19,6-29-19,10:15 PM,11:15 PM,FALSE,TRUE,6-29-19,6:15 PM,7:15 PM,FREE,BUSY
+06-30-19,1:10 PM,2:10 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,6-30-19,6-30-19,4:10 PM,5:10 PM,FALSE,TRUE,6-30-19,12:10 PM,1:10 PM,FREE,BUSY
+07-09-19,,,NL All-Stars at AL All-Stars - Time TBD,Progressive Field - Cleveland,,7-9-19,7-9-19,,,FALSE,TRUE,7-9-19,,,FREE,BUSY
+07-12-19,7:10 PM,8:10 PM,Giants at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-12-19,7-12-19,10:10 PM,11:10 PM,FALSE,TRUE,7-12-19,6:10 PM,7:10 PM,FREE,BUSY
+07-13-19,6:15 PM,7:15 PM,Giants at Brewers,Miller Park - Milwaukee,Local TV: FOX ----- Local Radio: WTMJ 620,7-13-19,7-13-19,9:15 PM,10:15 PM,FALSE,TRUE,7-13-19,5:15 PM,6:15 PM,FREE,BUSY
+07-14-19,1:10 PM,2:10 PM,Giants at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,7-14-19,7-14-19,4:10 PM,5:10 PM,FALSE,TRUE,7-14-19,12:10 PM,1:10 PM,FREE,BUSY
+07-15-19,7:10 PM,8:10 PM,Braves at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-15-19,7-15-19,10:10 PM,11:10 PM,FALSE,TRUE,7-15-19,6:10 PM,7:10 PM,FREE,BUSY
+07-16-19,7:10 PM,8:10 PM,Braves at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-16-19,7-16-19,10:10 PM,11:10 PM,FALSE,TRUE,7-16-19,6:10 PM,7:10 PM,FREE,BUSY
+07-17-19,1:10 PM,2:10 PM,Braves at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-17-19,7-17-19,4:10 PM,5:10 PM,FALSE,TRUE,7-17-19,12:10 PM,1:10 PM,FREE,BUSY
+07-22-19,7:10 PM,8:10 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-22-19,7-22-19,10:10 PM,11:10 PM,FALSE,TRUE,7-22-19,6:10 PM,7:10 PM,FREE,BUSY
+07-23-19,7:10 PM,8:10 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-23-19,7-23-19,10:10 PM,11:10 PM,FALSE,TRUE,7-23-19,6:10 PM,7:10 PM,FREE,BUSY
+07-24-19,1:10 PM,2:10 PM,Reds at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-24-19,7-24-19,4:10 PM,5:10 PM,FALSE,TRUE,7-24-19,12:10 PM,1:10 PM,FREE,BUSY
+07-26-19,7:10 PM,8:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-26-19,7-26-19,10:10 PM,11:10 PM,FALSE,TRUE,7-26-19,6:10 PM,7:10 PM,FREE,BUSY
+07-27-19,6:10 PM,7:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,7-27-19,7-27-19,9:10 PM,10:10 PM,FALSE,TRUE,7-27-19,5:10 PM,6:10 PM,FREE,BUSY
+07-28-19,1:10 PM,2:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,7-28-19,7-28-19,4:10 PM,5:10 PM,FALSE,TRUE,7-28-19,12:10 PM,1:10 PM,FREE,BUSY
+08-09-19,7:10 PM,8:10 PM,Rangers at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-9-19,8-9-19,10:10 PM,11:10 PM,FALSE,TRUE,8-9-19,6:10 PM,7:10 PM,FREE,BUSY
+08-10-19,6:10 PM,7:10 PM,Rangers at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-10-19,8-10-19,9:10 PM,10:10 PM,FALSE,TRUE,8-10-19,5:10 PM,6:10 PM,FREE,BUSY
+08-11-19,1:10 PM,2:10 PM,Rangers at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,8-11-19,8-11-19,4:10 PM,5:10 PM,FALSE,TRUE,8-11-19,12:10 PM,1:10 PM,FREE,BUSY
+08-13-19,7:10 PM,8:10 PM,Twins at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-13-19,8-13-19,10:10 PM,11:10 PM,FALSE,TRUE,8-13-19,6:10 PM,7:10 PM,FREE,BUSY
+08-14-19,1:10 PM,2:10 PM,Twins at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-14-19,8-14-19,4:10 PM,5:10 PM,FALSE,TRUE,8-14-19,12:10 PM,1:10 PM,FREE,BUSY
+08-23-19,7:10 PM,8:10 PM,D-backs at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-23-19,8-23-19,10:10 PM,11:10 PM,FALSE,TRUE,8-23-19,6:10 PM,7:10 PM,FREE,BUSY
+08-24-19,6:10 PM,7:10 PM,D-backs at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-24-19,8-24-19,9:10 PM,10:10 PM,FALSE,TRUE,8-24-19,5:10 PM,6:10 PM,FREE,BUSY
+08-25-19,1:10 PM,2:10 PM,D-backs at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,8-25-19,8-25-19,4:10 PM,5:10 PM,FALSE,TRUE,8-25-19,12:10 PM,1:10 PM,FREE,BUSY
+08-26-19,6:40 PM,7:40 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-26-19,8-26-19,9:40 PM,10:40 PM,FALSE,TRUE,8-26-19,5:40 PM,6:40 PM,FREE,BUSY
+08-27-19,6:40 PM,7:40 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-27-19,8-27-19,9:40 PM,10:40 PM,FALSE,TRUE,8-27-19,5:40 PM,6:40 PM,FREE,BUSY
+08-28-19,1:10 PM,2:10 PM,Cardinals at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,8-28-19,8-28-19,4:10 PM,5:10 PM,FALSE,TRUE,8-28-19,12:10 PM,1:10 PM,FREE,BUSY
+09-02-19,3:10 PM,4:10 PM,Astros at Brewers,Miller Park - Milwaukee,Local TV: FSWI- ESPN ----- Local Radio: WTMJ 620,9-2-19,9-2-19,6:10 PM,7:10 PM,FALSE,TRUE,9-2-19,2:10 PM,3:10 PM,FREE,BUSY
+09-03-19,6:40 PM,7:40 PM,Astros at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-3-19,9-3-19,9:40 PM,10:40 PM,FALSE,TRUE,9-3-19,5:40 PM,6:40 PM,FREE,BUSY
+09-05-19,7:10 PM,8:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-5-19,9-5-19,10:10 PM,11:10 PM,FALSE,TRUE,9-5-19,6:10 PM,7:10 PM,FREE,BUSY
+09-06-19,7:10 PM,8:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-6-19,9-6-19,10:10 PM,11:10 PM,FALSE,TRUE,9-6-19,6:10 PM,7:10 PM,FREE,BUSY
+09-07-19,6:10 PM,7:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-7-19,9-7-19,9:10 PM,10:10 PM,FALSE,TRUE,9-7-19,5:10 PM,6:10 PM,FREE,BUSY
+09-08-19,1:10 PM,2:10 PM,Cubs at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,9-8-19,9-8-19,4:10 PM,5:10 PM,FALSE,TRUE,9-8-19,12:10 PM,1:10 PM,FREE,BUSY
+09-16-19,6:40 PM,7:40 PM,Padres at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-16-19,9-16-19,9:40 PM,10:40 PM,FALSE,TRUE,9-16-19,5:40 PM,6:40 PM,FREE,BUSY
+09-17-19,6:40 PM,7:40 PM,Padres at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-17-19,9-17-19,9:40 PM,10:40 PM,FALSE,TRUE,9-17-19,5:40 PM,6:40 PM,FREE,BUSY
+09-18-19,6:40 PM,7:40 PM,Padres at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-18-19,9-18-19,9:40 PM,10:40 PM,FALSE,TRUE,9-18-19,5:40 PM,6:40 PM,FREE,BUSY
+09-19-19,3:10 PM,4:10 PM,Padres at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-19-19,9-19-19,6:10 PM,7:10 PM,FALSE,TRUE,9-19-19,2:10 PM,3:10 PM,FREE,BUSY
+09-20-19,7:10 PM,8:10 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-20-19,9-20-19,10:10 PM,11:10 PM,FALSE,TRUE,9-20-19,6:10 PM,7:10 PM,FREE,BUSY
+09-21-19,6:10 PM,7:10 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FSWI ----- Local Radio: WTMJ 620,9-21-19,9-21-19,9:10 PM,10:10 PM,FALSE,TRUE,9-21-19,5:10 PM,6:10 PM,FREE,BUSY
+09-22-19,1:10 PM,2:10 PM,Pirates at Brewers,Miller Park - Milwaukee,Local TV: FSWI- WYTU ----- Local Radio: WTMJ 620,9-22-19,9-22-19,4:10 PM,5:10 PM,FALSE,TRUE,9-22-19,12:10 PM,1:10 PM,FREE,BUSY
